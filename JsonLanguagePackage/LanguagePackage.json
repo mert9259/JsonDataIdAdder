@@ -1,0 +1,1386 @@
+{
+"id": 0,
+"alpha2Code":"AF",
+key
+"slug":"afghanistan"
+},
+{
+"id": 1,
+"alpha2Code":"AL",
+key
+"slug":"albania"
+},
+{
+"id": 2,
+"alpha2Code":"DZ",
+key
+"slug":"algeria"
+},
+{
+"id": 3,
+"alpha2Code":"AS",
+key
+"slug":"american-samoa"
+},
+{
+"id": 4,
+"alpha2Code":"AD",
+key
+"slug":"andorra"
+},
+{
+"id": 5,
+"alpha2Code":"AO",
+key
+"slug":"angola"
+},
+{
+"id": 6,
+"alpha2Code":"AI",
+key
+"slug":"anguilla"
+},
+{
+"id": 7,
+"alpha2Code":"AG",
+key
+"slug":"antigua-and-barbuda"
+},
+{
+"id": 8,
+"alpha2Code":"AR",
+key
+"slug":"argentina"
+},
+{
+"id": 9,
+"alpha2Code":"AM",
+key
+"slug":"armenia"
+},
+{
+"id": 10,
+"alpha2Code":"AW",
+key
+"slug":"aruba"
+},
+{
+"id": 11,
+"alpha2Code":"AU",
+key
+"slug":"australia"
+},
+{
+"id": 12,
+"alpha2Code":"AT",
+key
+"slug":"austria"
+},
+{
+"id": 13,
+"alpha2Code":"AZ",
+key
+"slug":"azerbaijan"
+},
+{
+"id": 14,
+"alpha2Code":"BS",
+key
+"slug":"bahamas"
+},
+{
+"id": 15,
+"alpha2Code":"BH",
+key
+"slug":"bahrain"
+},
+{
+"id": 16,
+"alpha2Code":"BD",
+key
+"slug":"bangladesh"
+},
+{
+"id": 17,
+"alpha2Code":"BB",
+key
+"slug":"barbados"
+},
+{
+"id": 18,
+"alpha2Code":"BY",
+key
+"slug":"belarus"
+},
+{
+"id": 19,
+"alpha2Code":"BE",
+key
+"slug":"belgium"
+},
+{
+"id": 20,
+"alpha2Code":"BZ",
+key
+"slug":"belize"
+},
+{
+"id": 21,
+"alpha2Code":"BJ",
+key
+"slug":"benin"
+},
+{
+"id": 22,
+"alpha2Code":"BM",
+key
+"slug":"bermuda"
+},
+{
+"id": 23,
+"alpha2Code":"BT",
+key
+"slug":"bhutan"
+},
+{
+"id": 24,
+"alpha2Code":"BO",
+key
+"slug":"bolivia"
+},
+{
+"id": 25,
+"alpha2Code":"BA",
+key
+"slug":"bosnia-and-herzegovina"
+},
+{
+"id": 26,
+"alpha2Code":"BW",
+key
+"slug":"botswana"
+},
+{
+"id": 27,
+"alpha2Code":"BR",
+key
+"slug":"brazil"
+},
+{
+"id": 28,
+"alpha2Code":"VG",
+key
+"slug":"british-virgin-islands"
+},
+{
+"id": 29,
+"alpha2Code":"BN",
+key
+"slug":"brunei"
+},
+{
+"id": 30,
+"alpha2Code":"BG",
+key
+"slug":"bulgaria"
+},
+{
+"id": 31,
+"alpha2Code":"BF",
+key
+"slug":"burkina-faso"
+},
+{
+"id": 32,
+"alpha2Code":"BI",
+key
+"slug":"burundi"
+},
+{
+"id": 33,
+"alpha2Code":"KH",
+key
+"slug":"cambodia"
+},
+{
+"id": 34,
+"alpha2Code":"CM",
+key
+"slug":"cameroon"
+},
+{
+"id": 35,
+"alpha2Code":"CA",
+key
+"slug":"canada"
+},
+{
+"id": 36,
+"alpha2Code":"CV",
+key
+"slug":"cape-verde"
+},
+{
+"id": 37,
+"alpha2Code":"BQ",
+key
+"slug":"caribbean-netherlands"
+},
+{
+"id": 38,
+"alpha2Code":"KY",
+key
+"slug":"cayman-islands"
+},
+{
+"id": 39,
+"alpha2Code":"CF",
+key
+"slug":"central-african-republic"
+},
+{
+"id": 40,
+"alpha2Code":"TD",
+key
+"slug":"chad"
+},
+{
+"id": 41,
+"alpha2Code":"CL",
+key
+"slug":"chile"
+},
+{
+"id": 42,
+"alpha2Code":"CN",
+key
+"slug":"china"
+},
+{
+"id": 43,
+"alpha2Code":"CX",
+key
+"slug":"christmas-island"
+},
+{
+"id": 44,
+"alpha2Code":"CO",
+key
+"slug":"colombia"
+},
+{
+"id": 45,
+"alpha2Code":"KM",
+key
+"slug":"comoros"
+},
+{
+"id": 46,
+"alpha2Code":"CK",
+key
+"slug":"cook-islands"
+},
+{
+"id": 47,
+"alpha2Code":"CR",
+key
+"slug":"costa-rica"
+},
+{
+"id": 48,
+"alpha2Code":"HR",
+key
+"slug":"croatia"
+},
+{
+"id": 49,
+"alpha2Code":"CU",
+key
+"slug":"cuba"
+},
+{
+"id": 50,
+"alpha2Code":"CW",
+key
+"slug":"curacao"
+},
+{
+"id": 51,
+"alpha2Code":"CY",
+key
+"slug":"cyprus"
+},
+{
+"id": 52,
+"alpha2Code":"CZ",
+key
+"slug":"czech-republic"
+},
+{
+"id": 53,
+"alpha2Code":"DK",
+key
+"slug":"denmark"
+},
+{
+"id": 54,
+"alpha2Code":"DJ",
+key
+"slug":"djibouti"
+},
+{
+"id": 55,
+"alpha2Code":"DM",
+key
+"slug":"dominica"
+},
+{
+"id": 56,
+"alpha2Code":"DO",
+key
+"slug":"dominican-republic"
+},
+{
+"id": 57,
+"alpha2Code":"CD",
+key
+"slug":"dr-congo"
+},
+{
+"id": 58,
+"alpha2Code":"EC",
+key
+"slug":"ecuador"
+},
+{
+"id": 59,
+"alpha2Code":"EG",
+key
+"slug":"egypt"
+},
+{
+"id": 60,
+"alpha2Code":"SV",
+key
+"slug":"el-salvador"
+},
+{
+"id": 61,
+"alpha2Code":"GQ",
+key
+"slug":"equatorial-guinea"
+},
+{
+"id": 62,
+"alpha2Code":"ER",
+key
+"slug":"eritrea"
+},
+{
+"id": 63,
+"alpha2Code":"EE",
+key
+"slug":"estonia"
+},
+{
+"id": 64,
+"alpha2Code":"ET",
+key
+"slug":"ethiopia"
+},
+{
+"id": 65,
+"alpha2Code":"FK",
+key
+"slug":"falkland-islands"
+},
+{
+"id": 66,
+"alpha2Code":"FO",
+key
+"slug":"faroe-islands"
+},
+{
+"id": 67,
+"alpha2Code":"FJ",
+key
+"slug":"fiji"
+},
+{
+"id": 68,
+"alpha2Code":"FI",
+key
+"slug":"finland"
+},
+{
+"id": 69,
+"alpha2Code":"FR",
+key
+"slug":"france"
+},
+{
+"id": 70,
+"alpha2Code":"GF",
+key
+"slug":"french-guiana"
+},
+{
+"id": 71,
+"alpha2Code":"PF",
+key
+"slug":"french-polynesia"
+},
+{
+"id": 72,
+"alpha2Code":"GA",
+key
+"slug":"gabon"
+},
+{
+"id": 73,
+"alpha2Code":"GM",
+key
+"slug":"gambia"
+},
+{
+"id": 74,
+"alpha2Code":"GE",
+key
+"slug":"georgia"
+},
+{
+"id": 75,
+"alpha2Code":"DE",
+key
+"slug":"germany"
+},
+{
+"id": 76,
+"alpha2Code":"GH",
+key
+"slug":"ghana"
+},
+{
+"id": 77,
+"alpha2Code":"GI",
+key
+"slug":"gibraltar"
+},
+{
+"id": 78,
+"alpha2Code":"GR",
+key
+"slug":"greece"
+},
+{
+"id": 79,
+"alpha2Code":"GL",
+key
+"slug":"greenland"
+},
+{
+"id": 80,
+"alpha2Code":"GD",
+key
+"slug":"grenada"
+},
+{
+"id": 81,
+"alpha2Code":"GP",
+key
+"slug":"guadeloupe"
+},
+{
+"id": 82,
+"alpha2Code":"GU",
+key
+"slug":"guam"
+},
+{
+"id": 83,
+"alpha2Code":"GT",
+key
+"slug":"guatemala"
+},
+{
+"id": 84,
+"alpha2Code":"GN",
+key
+"slug":"guinea"
+},
+{
+"id": 85,
+"alpha2Code":"GW",
+key
+"slug":"guinea-bissau"
+},
+{
+"id": 86,
+"alpha2Code":"GY",
+key
+"slug":"guyana"
+},
+{
+"id": 87,
+"alpha2Code":"HT",
+key
+"slug":"haiti"
+},
+{
+"id": 88,
+"alpha2Code":"HN",
+key
+"slug":"honduras"
+},
+{
+"id": 89,
+"alpha2Code":"HK",
+key
+"slug":"hong-kong"
+},
+{
+"id": 90,
+"alpha2Code":"HU",
+key
+"slug":"hungary"
+},
+{
+"id": 91,
+"alpha2Code":"IS",
+key
+"slug":"iceland"
+},
+{
+"id": 92,
+"alpha2Code":"IN",
+key
+"slug":"india"
+},
+{
+"id": 93,
+"alpha2Code":"ID",
+key
+"slug":"indonesia"
+},
+{
+"id": 94,
+"alpha2Code":"IR",
+key
+"slug":"iran"
+},
+{
+"id": 95,
+"alpha2Code":"IQ",
+key
+"slug":"iraq"
+},
+{
+"id": 96,
+"alpha2Code":"IE",
+key
+"slug":"ireland"
+},
+{
+"id": 97,
+"alpha2Code":"IL",
+key
+"slug":"israel"
+},
+{
+"id": 98,
+"alpha2Code":"IT",
+key
+"slug":"italy"
+},
+{
+"id": 99,
+"alpha2Code":"CI",
+key
+"slug":"ivory-coast"
+},
+{
+"id": 100,
+"alpha2Code":"JM",
+key
+"slug":"jamaica"
+},
+{
+"id": 101,
+"alpha2Code":"JP",
+key
+"slug":"japan"
+},
+{
+"id": 102,
+"alpha2Code":"JO",
+key
+"slug":"jordan"
+},
+{
+"id": 103,
+"alpha2Code":"KZ",
+key
+"slug":"kazakhstan"
+},
+{
+"id": 104,
+"alpha2Code":"KE",
+key
+"slug":"kenya"
+},
+{
+"id": 105,
+"alpha2Code":"KI",
+key
+"slug":"kiribati"
+},
+{
+"id": 106,
+"alpha2Code":"KW",
+key
+"slug":"kuwait"
+},
+{
+"id": 107,
+"alpha2Code":"KG",
+key
+"slug":"kyrgyzstan"
+},
+{
+"id": 108,
+"alpha2Code":"LA",
+key
+"slug":"laos"
+},
+{
+"id": 109,
+"alpha2Code":"LV",
+key
+"slug":"latvia"
+},
+{
+"id": 110,
+"alpha2Code":"LB",
+key
+"slug":"lebanon"
+},
+{
+"id": 111,
+"alpha2Code":"LS",
+key
+"slug":"lesotho"
+},
+{
+"id": 112,
+"alpha2Code":"LR",
+key
+"slug":"liberia"
+},
+{
+"id": 113,
+"alpha2Code":"LY",
+key
+"slug":"libya"
+},
+{
+"id": 114,
+"alpha2Code":"LI",
+key
+"slug":"liechtenstein"
+},
+{
+"id": 115,
+"alpha2Code":"LT",
+key
+"slug":"lithuania"
+},
+{
+"id": 116,
+"alpha2Code":"LU",
+key
+"slug":"luxembourg"
+},
+{
+"id": 117,
+"alpha2Code":"MO",
+key
+"slug":"macau"
+},
+{
+"id": 118,
+"alpha2Code":"MK",
+key
+"slug":"macedonia"
+},
+{
+"id": 119,
+"alpha2Code":"MG",
+key
+"slug":"madagascar"
+},
+{
+"id": 120,
+"alpha2Code":"MW",
+key
+"slug":"malawi"
+},
+{
+"id": 121,
+"alpha2Code":"MY",
+key
+"slug":"malaysia"
+},
+{
+"id": 122,
+"alpha2Code":"MV",
+key
+"slug":"maldives"
+},
+{
+"id": 123,
+"alpha2Code":"ML",
+key
+"slug":"mali"
+},
+{
+"id": 124,
+"alpha2Code":"MT",
+key
+"slug":"malta"
+},
+{
+"id": 125,
+"alpha2Code":"MH",
+key
+"slug":"marshall-islands"
+},
+{
+"id": 126,
+"alpha2Code":"MQ",
+key
+"slug":"martinique"
+},
+{
+"id": 127,
+"alpha2Code":"MR",
+key
+"slug":"mauritania"
+},
+{
+"id": 128,
+"alpha2Code":"MU",
+key
+"slug":"mauritius"
+},
+{
+"id": 129,
+"alpha2Code":"YT",
+key
+"slug":"mayotte"
+},
+{
+"id": 130,
+"alpha2Code":"MX",
+key
+"slug":"mexico"
+},
+{
+"id": 131,
+"alpha2Code":"FM",
+key
+"slug":"micronesia"
+},
+{
+"id": 132,
+"alpha2Code":"MD",
+key
+"slug":"moldova"
+},
+{
+"id": 133,
+"alpha2Code":"MC",
+key
+"slug":"monaco"
+},
+{
+"id": 134,
+"alpha2Code":"MN",
+key
+"slug":"mongolia"
+},
+{
+"id": 135,
+"alpha2Code":"ME",
+key
+"slug":"montenegro"
+},
+{
+"id": 137,
+"alpha2Code":"MA",
+key
+"slug":"morocco"
+},
+{
+"id": 138,
+"alpha2Code":"MZ",
+key
+"slug":"mozambique"
+},
+{
+"id": 139,
+"alpha2Code":"MM",
+key
+"slug":"myanmar"
+},
+{
+"id": 140,
+"alpha2Code":"NA",
+key
+"slug":"namibia"
+},
+{
+"id": 141,
+"alpha2Code":"NR",
+key
+"slug":"nauru"
+},
+{
+"id": 142,
+"alpha2Code":"NP",
+key
+"slug":"nepal"
+},
+{
+"id": 143,
+"alpha2Code":"NL",
+key
+"slug":"netherlands"
+},
+{
+"id": 144,
+"alpha2Code":"NC",
+key
+"slug":"new-caledonia"
+},
+{
+"id": 145,
+"alpha2Code":"NZ",
+key
+"slug":"new-zealand"
+},
+{
+"id": 146,
+"alpha2Code":"NI",
+key
+"slug":"nicaragua"
+},
+{
+"id": 147,
+"alpha2Code":"NE",
+key
+"slug":"niger"
+},
+{
+"id": 148,
+"alpha2Code":"NG",
+key
+"slug":"nigeria"
+},
+{
+"id": 149,
+"alpha2Code":"NU",
+key
+"slug":"niue"
+},
+{
+"id": 150,
+"alpha2Code":"KP",
+key
+"slug":"north-korea"
+},
+{
+"id": 151,
+"alpha2Code":"MP",
+key
+"slug":"northern-mariana-islands"
+},
+{
+"id": 152,
+"alpha2Code":"NO",
+key
+"slug":"norway"
+},
+{
+"id": 153,
+"alpha2Code":"OM",
+key
+"slug":"oman"
+},
+{
+"id": 154,
+"alpha2Code":"PK",
+key
+"slug":"pakistan"
+},
+{
+"id": 155,
+"alpha2Code":"PW",
+key
+"slug":"palau"
+},
+{
+"id": 156,
+"alpha2Code":"PS",
+key
+"slug":"palestine"
+},
+{
+"id": 157,
+"alpha2Code":"PA",
+key
+"slug":"panama"
+},
+{
+"id": 158,
+"alpha2Code":"PG",
+key
+"slug":"papua-new-guinea"
+},
+{
+"id": 159,
+"alpha2Code":"PY",
+key
+"slug":"paraguay"
+},
+{
+"id": 160,
+"alpha2Code":"PE",
+key
+"slug":"peru"
+},
+{
+"id": 161,
+"alpha2Code":"PH",
+key
+"slug":"philippines"
+},
+{
+"id": 162,
+"alpha2Code":"PL",
+key
+"slug":"poland"
+},
+{
+"id": 163,
+"alpha2Code":"PT",
+key
+"slug":"portugal"
+},
+{
+"id": 164,
+"alpha2Code":"PR",
+key
+"slug":"puerto-rico"
+},
+{
+"id": 165,
+"alpha2Code":"QA",
+key
+"slug":"qatar"
+},
+{
+"id": 166,
+"alpha2Code":"CG",
+key
+"slug":"republic-of-the-congo"
+},
+{
+"id": 167,
+"alpha2Code":"RE",
+key
+"slug":"reunion"
+},
+{
+"id": 168,
+"alpha2Code":"RO",
+key
+"slug":"romania"
+},
+{
+"id": 169,
+"alpha2Code":"RU",
+key
+"slug":"russia"
+},
+{
+"id": 170,
+"alpha2Code":"RW",
+key
+"slug":"rwanda"
+},
+{
+"id": 171,
+"alpha2Code":"BL",
+key
+"slug":"saint-barthelemy"
+},
+{
+"id": 172,
+"alpha2Code":"KN",
+key
+"slug":"saint-kitts-and-nevis"
+},
+{
+"id": 173,
+"alpha2Code":"LC",
+key
+"slug":"saint-lucia"
+},
+{
+"id": 174,
+"alpha2Code":"MF",
+key
+"slug":"saint-martin"
+},
+{
+"id": 175,
+"alpha2Code":"PM",
+key
+"slug":"saint-pierre-and-miquelon"
+},
+{
+"id": 176,
+"alpha2Code":"VC",
+key
+"slug":"saint-vincent-and-the-grenadines"
+},
+{
+"id": 177,
+"alpha2Code":"WS",
+key
+"slug":"samoa"
+},
+{
+"id": 178,
+"alpha2Code":"SM",
+key
+"slug":"san-marino"
+},
+{
+"id": 179,
+"alpha2Code":"ST",
+key
+"slug":"sao-tome-and-principe"
+},
+{
+"id": 180,
+"alpha2Code":"SA",
+key
+"slug":"saudi-arabia"
+},
+{
+"id": 181,
+"alpha2Code":"SN",
+key
+"slug":"senegal"
+},
+{
+"id": 182,
+"alpha2Code":"RS",
+key
+"slug":"serbia"
+},
+{
+"id": 183,
+"alpha2Code":"SC",
+key
+"slug":"seychelles"
+},
+{
+"id": 184,
+"alpha2Code":"SL",
+key
+"slug":"sierra-leone"
+},
+{
+"id": 185,
+"alpha2Code":"SG",
+key
+"slug":"singapore"
+},
+{
+"id": 186,
+"alpha2Code":"SX",
+key
+"slug":"sint-maarten"
+},
+{
+"id": 187,
+"alpha2Code":"SK",
+key
+"slug":"slovakia"
+},
+{
+"id": 188,
+"alpha2Code":"SI",
+key
+"slug":"slovenia"
+},
+{
+"id": 189,
+"alpha2Code":"SB",
+key
+"slug":"solomon-islands"
+},
+{
+"id": 190,
+"alpha2Code":"SO",
+key
+"slug":"somalia"
+},
+{
+"id": 191,
+"alpha2Code":"ZA",
+key
+"slug":"south-africa"
+},
+{
+"id": 192,
+"alpha2Code":"KR",
+key
+"slug":"south-korea"
+},
+{
+"id": 193,
+"alpha2Code":"ES",
+key
+"slug":"spain"
+},
+{
+"id": 194,
+"alpha2Code":"LK",
+key
+"slug":"sri-lanka"
+},
+{
+"id": 195,
+"alpha2Code":"SD",
+key
+"slug":"sudan"
+},
+{
+"id": 196,
+"alpha2Code":"SR",
+key
+"slug":"suriname"
+},
+{
+"id": 197,
+"alpha2Code":"SZ",
+key
+"slug":"swaziland"
+},
+{
+"id": 198,
+"alpha2Code":"SE",
+key
+"slug":"sweden"
+},
+{
+"id": 199,
+"alpha2Code":"CH",
+key
+"slug":"switzerland"
+},
+{
+"id": 200,
+"alpha2Code":"SY",
+key
+"slug":"syria"
+},
+{
+"id": 201,
+"alpha2Code":"TW",
+key
+"slug":"taiwan"
+},
+{
+"id": 202,
+"alpha2Code":"TJ",
+key
+"slug":"tajikistan"
+},
+{
+"id": 203,
+"alpha2Code":"TZ",
+key
+"slug":"tanzania"
+},
+{
+"id": 204,
+"alpha2Code":"TH",
+key
+"slug":"thailand"
+},
+{
+"id": 205,
+"alpha2Code":"TL",
+key
+"slug":"timor-leste"
+},
+{
+"id": 206,
+"alpha2Code":"TG",
+key
+"slug":"togo"
+},
+{
+"id": 207,
+"alpha2Code":"TK",
+key
+"slug":"tokelau"
+},
+{
+"id": 208,
+"alpha2Code":"TO",
+key
+"slug":"tonga"
+},
+{
+"id": 209,
+"alpha2Code":"TT",
+key
+"slug":"trinidad-and-tobago"
+},
+{
+"id": 210,
+"alpha2Code":"TN",
+key
+"slug":"tunisia"
+},
+{
+"id": 211,
+"alpha2Code":"TR",
+key
+"slug":"turkey"
+},
+{
+"id": 212,
+"alpha2Code":"TM",
+key
+"slug":"turkmenistan"
+},
+{
+"id": 213,
+"alpha2Code":"TC",
+key
+"slug":"turks-and-caicos-islands"
+},
+{
+"id": 214,
+"alpha2Code":"TV",
+key
+"slug":"tuvalu"
+},
+{
+"id": 215,
+"alpha2Code":"UG",
+key
+"slug":"uganda"
+},
+{
+"id": 216,
+"alpha2Code":"UA",
+key
+"slug":"ukraine"
+},
+{
+"id": 217,
+"alpha2Code":"AE",
+key
+"slug":"united-arab-emirates"
+},
+{
+"id": 218,
+"alpha2Code":"GB",
+key
+"slug":"united-kingdom"
+},
+{
+"id": 219,
+"alpha2Code":"US",
+key
+"slug":"united-states"
+},
+{
+"id": 220,
+"alpha2Code":"VI",
+key
+"slug":"united-states-virgin-islands"
+},
+{
+"id": 221,
+"alpha2Code":"UY",
+key
+"slug":"uruguay"
+},
+{
+"id": 222,
+"alpha2Code":"UZ",
+key
+"slug":"uzbekistan"
+},
+{
+"id": 223,
+"alpha2Code":"VU",
+key
+"slug":"vanuatu"
+},
+{
+"id": 224,
+"alpha2Code":"VA",
+key
+"slug":"vatican-city"
+},
+{
+"id": 225,
+"alpha2Code":"VE",
+key
+"slug":"venezuela"
+},
+{
+"id": 226,
+"alpha2Code":"VN",
+key
+"slug":"vietnam"
+},
+{
+"id": 227,
+"alpha2Code":"WF",
+key
+"slug":"wallis-and-futuna"
+},
+{
+"id": 228,
+"alpha2Code":"EH",
+key
+"slug":"western-sahara"
+},
+{
+"id": 229,
+"alpha2Code":"YE",
+key
+"slug":"yemen"
+},
+{
+"id": 230,
+"alpha2Code":"ZM",
+key
+"slug":"zambia"
+},
+{
+"id": 231,
+"alpha2Code":"ZW",
+key
+"slug":"zimbabwe"
+}

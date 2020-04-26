@@ -8,16 +8,19 @@ using namespace std;
 
 int main() {
 
-	string line;
+	string line,change;
 	
-	ofstream fileW("data2.js");
-	ifstream fileR("data.js");
+	ofstream fileW("data2.json");
+	ifstream fileR("data.json");
 	
 	int sayac=0;
 	
+	cout<<"Please, Enter change string\n";
+	cin>>change;
+	
 	
 	while(getline(fileR,line)){
-		if(line=="change"){
+		if(line==change){
 			fileW<<"\"id\""<<": "<<sayac<<",\n";
 			sayac++;
 		}
