@@ -16,7 +16,7 @@ int main() {
 	int sayac=0;
 	
 	
-	while(fileR>>line){
+	while(getline(fileR,line)){
 		if(line=="change"){
 			fileW<<"\"id\""<<": "<<sayac<<",\n";
 			sayac++;
